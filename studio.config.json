@@ -1,0 +1,34 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "color",
+     "tokens"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    [
+     "button",
+     "weatherMini"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "doc-layout",
+     "sd-input"
+    ]
+   ]
+  ]
+ },
+ "dependencies": {
+  "autoInstall": false
+ },
+ "doc": {
+  "markdownEngine": "mdjs"
+ }
+}

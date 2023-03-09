@@ -1,2 +1,1 @@
-export const story1 = () => "Hello World";
-export const story2 = () => "Story 2";
+export const story1 = () => 'Weather Mini Component';
